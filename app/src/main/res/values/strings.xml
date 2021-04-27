@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lines and Squares</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="init">Red\'s turn</string>
+    <string name="red_0">Red: 0</string>
+    <string name="blue_0">Blue: 0</string>
+</resources>
